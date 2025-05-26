@@ -30,6 +30,14 @@ Using **Power BI**, the goal is to:
 - Generate actionable insights to inform fraud detection and prevention strategies  
 - Apply good data visualization principles for clarity and impact  
 
+#### Power BI Dashboard Previews:
+
+**Page 1 – Overview of Claims**
+![Power BI Dashboard - Page 1](screenshots/PowerBI_dashboard_Page_1.png)
+
+**Page 2 – Fraud Pattern Insights**
+![Power BI Dashboard - Page 2](screenshots/PowerBI_dashboard_Page_2.png)
+
 ### 2. Predictive Modeling
 
 Using **RapidMiner**, the goal is to:
@@ -38,6 +46,34 @@ Using **RapidMiner**, the goal is to:
 - Compare the performance of at least two supervised learning algorithms  
 - Manually configure models and avoid the use of automated tools or features  
 - Interpret and explain model outputs to inform business decision-making  
+
+#### Decision Tree Model
+
+**RapidMiner Process**
+![RapidMiner Process – Decision Tree](screenshots/rapidminer_process_decision_tree.png)
+
+**Inside Cross-Validation Process**
+![RapidMiner Cross Validation – Decision Tree](screenshots/rapidminer_processCV_decision_tree.png)
+
+**Decision Tree Output**
+![Decision Tree Diagram](screenshots/rapidminer_decision_tree.png)
+
+**Confusion Matrix**
+![Decision Tree Results](screenshots/rapidminer_result_decision_tree.png)
+
+#### Random Forest Model
+
+**RapidMiner Process**
+![RapidMiner Process – Random Forest](screenshots/rapidminer_process_random_forest.png)
+
+**Inside Cross-Validation Process**
+![RapidMiner Cross Validation – Random Forest](screenshots/rapidminer_processCV_random_forest.png)
+
+**Example Tree in Random Forest**
+![Random Forest Decision Tree](screenshots/rapidminer_random_forest.png)
+
+**Confusion Matrix**
+![Random Forest Results](screenshots/rapidminer_result_random_forest.png)
 
 ## Tools & Technologies
 
