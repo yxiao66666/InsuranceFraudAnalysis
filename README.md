@@ -114,3 +114,6 @@ Using **RapidMiner**, the goal is to:
 ## Relevance
 
 With the growing importance of artificial intelligence and machine learning in Australia's financial and insurance sectors, this project provides practical insights into how data-driven methods can support fairer and more efficient insurance practices.
+
+## Contributors
+- [yxiao66666](https://www.linkedin.com/in/yang~xiao/) 
